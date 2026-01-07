@@ -10,6 +10,8 @@ toc: true
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oCe8MpZi4Sg?si=wzEZklqsMfUxfddu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 *D'accord.* I hear you. You want the whole thing to study. I have cleaned up the dialogue from the transcript so it reads like a proper play. It is long, but if you can read a Spanish play, you can read this.
 
 ## Scène 1: L'arrivée à Paris
