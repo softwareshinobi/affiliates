@@ -247,5 +247,3 @@ M. Kangaroo: L'eau est une chose très rare dans l'outback. Nous allons prépare
 ### Study Tip
 
 Did you see how often they use **"Est-ce que..."** to ask a question? In Spanish, you just change your tone (¿Vas al mercado?). In French, we love this "Is it that..." structure. It's very standard, especially for a "Day One" learner.
-
-Would you like me to take one of these scenes and explain the grammar points that usually trip up Spanish speakers?
